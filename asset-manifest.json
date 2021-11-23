@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.5f760734.chunk.css",
+    "main.js": "./static/js/main.17c31b42.chunk.js",
+    "main.js.map": "./static/js/main.17c31b42.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.55c3663c.js",
+    "runtime-main.js.map": "./static/js/runtime-main.55c3663c.js.map",
+    "static/js/2.45ec0ec6.chunk.js": "./static/js/2.45ec0ec6.chunk.js",
+    "static/js/2.45ec0ec6.chunk.js.map": "./static/js/2.45ec0ec6.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.5f760734.chunk.css.map": "./static/css/main.5f760734.chunk.css.map",
+    "static/js/2.45ec0ec6.chunk.js.LICENSE.txt": "./static/js/2.45ec0ec6.chunk.js.LICENSE.txt",
+    "static/media/Airplane-beneath.e4df753c.jpg": "./static/media/Airplane-beneath.e4df753c.jpg",
+    "static/media/Ship-shipment.99292848.jpg": "./static/media/Ship-shipment.99292848.jpg",
+    "static/media/bike.dbef4540.jpg": "./static/media/bike.dbef4540.jpg",
+    "static/media/connected_world_wuay.c0f38fef.svg": "./static/media/connected_world_wuay.c0f38fef.svg",
+    "static/media/deliveries.80209e8a.svg": "./static/media/deliveries.80209e8a.svg",
+    "static/media/discount.c9c28d99.svg": "./static/media/discount.c9c28d99.svg",
+    "static/media/drone_delivery.7f39eedd.svg": "./static/media/drone_delivery.7f39eedd.svg",
+    "static/media/fingerprint.b6632b49.svg": "./static/media/fingerprint.b6632b49.svg",
+    "static/media/wallet.a9d95ebb.svg": "./static/media/wallet.a9d95ebb.svg",
+    "static/media/winners.6323a2ba.svg": "./static/media/winners.6323a2ba.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55c3663c.js",
+    "static/js/2.45ec0ec6.chunk.js",
+    "static/css/main.5f760734.chunk.css",
+    "static/js/main.17c31b42.chunk.js"
+  ]
+}
